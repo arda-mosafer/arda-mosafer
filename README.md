@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 سلام، من [Your Name] هستم!  
 
-<!--
-**arda-mosafer/arda-mosafer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+php
+namespace Profile;
 
-Here are some ideas to get you started:
+class Developer {
+    private string $name = "Your Name";
+    private string $role = "PHP Developer";
+    private array $skills = ["PHP", "Laravel", "Tailwind CSS", "WebSocket"];
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    public function introduce(): string {
+        return "👋 سلام! من {$this->name} هستم، یه {$this->role} با تجربه در " . implode(", ", $this->skills) . " 🚀";
+    }
+}
+
+
+✅ برنامه‌نویس PHP با تخصص در:  
+- Laravel ⚡  
+- Tailwind CSS 🎨  
+- WebSocket 💬  
+
+📫 تماس با من:  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)
