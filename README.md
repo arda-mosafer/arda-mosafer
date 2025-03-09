@@ -1,5 +1,5 @@
-> ***Hi Im Arda*** 👋
->> I am `Web` Developer, Actually, I am a `Backend` Developer.
+> ***Hello World*** 👋
+>> Im `Web` Developer, Actually, Im a `Backend` Developer.
 
 ```PHP
 namespace Profile;
@@ -7,7 +7,7 @@ namespace Profile;
 class Developer {
     private string $name = "Arda Mosafer";
     private string $role = "PHP Developer";
-    private array $skills = ["PHP", "Laravel", "Tailwind CSS"];
+    private array $skills = ["PHP", "Laravel", "Tailwind CSS", "Bootstrap"];
 
     public function introduce(): string {
         return "👋 Hi! I'm {$this->name}, a {$this->role} experienced in " . implode(", ", $this->skills) . " 🚀";
@@ -20,5 +20,4 @@ class Developer {
 <img src="https://github-readme-stats.vercel.app/api?username=arda-mosafer&show_icons=true&theme=radical" />
 
 ## My Project language 👨‍💻
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arda-mosafer&hide_progress=true" />
