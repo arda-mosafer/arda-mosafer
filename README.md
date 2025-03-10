@@ -16,11 +16,10 @@ class Developer {
 
 ```
 
-> ***My Activity***
+# ***My Activity***
 <img src="https://github-readme-stats.vercel.app/api?username=arda-mosafer&show_icons=true&theme=radical" />
 
-> ***My Project language*** 👨‍💻
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arda-mosafer&hide_progress=true" />
+# ***My Project language*** 👨‍💻
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
@@ -30,3 +29,7 @@ class Developer {
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+# ***Contact me*** 📞
+> 
+<a href="https://t.me/Mosafer_001"><img src="https://github.com/arda-mosafer/arda-mosafer/blob/main/icons8-telegram-94.png?raw=true" /></a>
