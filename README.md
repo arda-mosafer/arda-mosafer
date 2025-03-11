@@ -43,3 +43,4 @@ class Developer {
 # ***Contact me***
 > 
 <a href="https://t.me/Mosafer_001"><img src="https://github.com/arda-mosafer/arda-mosafer/blob/main/icons8-telegram-94.png?raw=true" /></a>
+<a href="https://t.me/Mosafer_001"><img src="https://github.com/arda-mosafer/arda-mosafer/blob/main/icons8-discord-94.png" /></a>
