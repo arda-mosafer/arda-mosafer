@@ -1,6 +1,6 @@
 # ABOUT ME:
 <ul>
-    <li>👨‍💻 I am a `Web` developer.</li>
+    <li>👨‍💻 I am a web developer.</li>
     <li>🚀 I'm a backend developer specializing in PHP and Laravel, building scalable and efficient web applications.</li>
     <li>💻 I have experience in developing secure and high-performance web applications using PHP, Laravel, and modern backend technologies.</li>
     <li>🔥 Passionate about backend development, I enjoy working with PHP, Laravel, and database management to create seamless user experiences.</li>
