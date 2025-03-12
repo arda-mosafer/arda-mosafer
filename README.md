@@ -14,7 +14,7 @@ namespace Profile;
 class Developer {
     private string $name = "Arda Mosafer";
     private string $role = "PHP Developer";
-    private array $skills = ["PHP", "Laravel", "Tailwind CSS", "Bootstrap"];
+    private array $skills = ["PHP", "Laravel", "Tailwind CSS", "Bootstrap", "Javascript"];
 
     public function introduce(): string {
         return "👋 Hi! I'm {$this->name}, a {$this->role} experienced in " . implode(", ", $this->skills) . " 🚀";
