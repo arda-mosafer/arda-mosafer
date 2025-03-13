@@ -42,5 +42,8 @@ class Developer {
 
 # ***Contact me:***
 
-<a href="https://t.me/Mosafer_001"><img src="https://github.com/arda-mosafer/arda-mosafer/blob/main/icons8-telegram-94.png?raw=true" /></a>
-<a href="https://t.me/Mosafer_001"><img src="https://github.com/arda-mosafer/arda-mosafer/blob/main/icons8-discord-94.png" /></a>
+<a href="https://t.me/Mosafer_001"><img width="70px" height="70px" src="https://github.com/arda-mosafer/arda-mosafer/blob/main/icons8-telegram-94.png?raw=true" /></a>
+
+<h2>What am I doing right now? 🤔</h2>
+
+<h3>⭐ I'm currently developing a web-based chat room called Rick Chat. ⭐</h3>
