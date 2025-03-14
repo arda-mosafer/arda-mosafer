@@ -13,6 +13,8 @@ class Developer {
 
 ```
 
+<br/>
+
 # 👻 ABOUT ME:
 <ul>
     <li>👨‍💻 I am a web developer.</li>
@@ -22,6 +24,8 @@ class Developer {
     <li>📚 Always eager to learn and improve, I'm currently exploring Node.js and modern backend frameworks to expand my skills.</li>
     <li>🤝 I enjoy collaborating on projects, optimizing backend performance, and solving complex problems with clean and scalable code.</li>
 </ul>
+
+<br/>
 
 # 🛠🧱 ***Languages and Tools:***
 
@@ -40,9 +44,13 @@ class Developer {
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
+<br/>
+
 # 📞📡 ***Contact me:***
 
 <a href="https://t.me/Mosafer_001"><img width="70px" height="70px" src="https://github.com/arda-mosafer/arda-mosafer/blob/main/icons8-telegram-94.png?raw=true" /></a>
+
+<br/>
 
 <h2>What am I doing right now? 🤔</h2>
 
