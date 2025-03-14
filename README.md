@@ -1,13 +1,3 @@
-# ABOUT ME:
-<ul>
-    <li>👨‍💻 I am a web developer.</li>
-    <li>🚀 I'm a backend developer specializing in PHP and Laravel, building scalable and efficient web applications.</li>
-    <li>💻 I have experience in developing secure and high-performance web applications using PHP, Laravel, and modern backend technologies.</li>
-    <li>🔥 Passionate about backend development, I enjoy working with PHP, Laravel, and database management to create seamless user experiences.</li>
-    <li>📚 Always eager to learn and improve, I'm currently exploring Node.js and modern backend frameworks to expand my skills.</li>
-    <li>🤝 I enjoy collaborating on projects, optimizing backend performance, and solving complex problems with clean and scalable code.</li>
-</ul>
-
 ```PHP
 namespace Profile;
 
@@ -23,7 +13,17 @@ class Developer {
 
 ```
 
-# ***Languages and Tools:***
+# 👻 ABOUT ME:
+<ul>
+    <li>👨‍💻 I am a web developer.</li>
+    <li>🚀 I'm a backend developer specializing in PHP and Laravel, building scalable and efficient web applications.</li>
+    <li>💻 I have experience in developing secure and high-performance web applications using PHP, Laravel, and modern backend technologies.</li>
+    <li>🔥 Passionate about backend development, I enjoy working with PHP, Laravel, and database management to create seamless user experiences.</li>
+    <li>📚 Always eager to learn and improve, I'm currently exploring Node.js and modern backend frameworks to expand my skills.</li>
+    <li>🤝 I enjoy collaborating on projects, optimizing backend performance, and solving complex problems with clean and scalable code.</li>
+</ul>
+
+# 🛠🧱 ***Languages and Tools:***
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -40,7 +40,7 @@ class Developer {
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-# ***Contact me:***
+# 📞📡 ***Contact me:***
 
 <a href="https://t.me/Mosafer_001"><img width="70px" height="70px" src="https://github.com/arda-mosafer/arda-mosafer/blob/main/icons8-telegram-94.png?raw=true" /></a>
 
