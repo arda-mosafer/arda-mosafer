@@ -17,11 +17,22 @@ class Developer {
 
 # 👻 ABOUT ME:
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+
 - 👨‍💻 &nbsp; I am a web developer.
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+
 - 🚀 &nbsp; I'm a backend developer specializing in PHP and Laravel, building scalable and efficient web applications.
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+
 - 💻 &nbsp; I develop secure, high-performance web applications with PHP, Laravel, and modern backend technologies
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"  />
+
 - 📚 &nbsp; Always eager to learn and improve, I'm currently exploring Node.js and modern backend frameworks to expand my skills.
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+
 - 🤝 &nbsp; I enjoy collaborating on projects, optimizing backend performance, and solving complex problems with clean and scalable code.
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
 <br/>
 
@@ -49,7 +60,7 @@ class Developer {
     <a href="" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" /></a>
 </p>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%" />
 
 # 📞📡 ***Contact me:***
 
@@ -61,14 +72,14 @@ class Developer {
     <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/arda-mosafer/arda-mosafer/blob/main/icons8-linkedin-94.png?raw=true" width="70" height="70" /></a>
 </p>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
 
 <h2>What am I doing right now? 🤔</h2>
 
 <h3>⭐ I'm currently developing a web-based chat room called Rick Chat. ⭐</h3>
 
+<br/>
 
-<p align="left">
-    <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e47gu3aaj5npbzq54sz7p38yx071zaso8j6fepf3m00&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+
 
