@@ -16,14 +16,13 @@ class Developer {
 <br/>
 
 # 👻 ABOUT ME:
-<ul>
-    <li>👨‍💻 I am a web developer.</li>
-    <li>🚀 I'm a backend developer specializing in PHP and Laravel, building scalable and efficient web applications.</li>
-    <li>💻 I have experience in developing secure and high-performance web applications using PHP, Laravel, and modern backend technologies.</li>
-    <li>🔥 Passionate about backend development, I enjoy working with PHP, Laravel, and database management to create seamless user experiences.</li>
-    <li>📚 Always eager to learn and improve, I'm currently exploring Node.js and modern backend frameworks to expand my skills.</li>
-    <li>🤝 I enjoy collaborating on projects, optimizing backend performance, and solving complex problems with clean and scalable code.</li>
-</ul>
+
+- 👨‍💻 &nbsp; I am a web developer.
+- 🚀 &nbsp; I'm a backend developer specializing in PHP and Laravel, building scalable and efficient web applications.
+- 💻 &nbsp; I develop secure, high-performance web applications with PHP, Laravel, and modern backend technologies
+- 📚 &nbsp; Always eager to learn and improve, I'm currently exploring Node.js and modern backend frameworks to expand my skills.
+- 🤝 &nbsp; I enjoy collaborating on projects, optimizing backend performance, and solving complex problems with clean and scalable code.
+
 
 <br/>
 
