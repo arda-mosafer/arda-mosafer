@@ -54,3 +54,21 @@ class Developer {
 <h2>What am I doing right now? 🤔</h2>
 
 <h3>⭐ I'm currently developing a web-based chat room called Rick Chat. ⭐</h3>
+
+### Skills
+
+<p align="left">
+    <a href="" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="36" height="36" alt="PHP" /></a>
+    <a href="" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="36" height="36" alt="Laravel" /></a>
+    <a href="" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="36" height="36" alt="HTML" /></a>
+    <a href="" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="36" height="36" alt="CSS" /></a>
+    <a href="" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="36" height="36" alt="Javascript" /></a>
+    <a href="" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" width="36" height="36" alt="jquery" /></a>
+    <a href="" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="Javascript" /></a>
+    <a href="" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="36" height="36" alt="Bootstrap" /></a>
+    <a href="" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="36" height="36" alt="Postman" /></a>
+    <a href="" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" width="36" height="36" alt="Insomnia" /></a>
+    <a href="" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="36" height="36" alt="Git" /></a>
+    <a href="" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="36" height="36" alt="Github" /></a>
+    <a href="" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="36" height="36" alt="Gitlab" /></a>
+</p>
