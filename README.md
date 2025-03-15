@@ -23,7 +23,6 @@ class Developer {
 - 📚 &nbsp; Always eager to learn and improve, I'm currently exploring Node.js and modern backend frameworks to expand my skills.
 - 🤝 &nbsp; I enjoy collaborating on projects, optimizing backend performance, and solving complex problems with clean and scalable code.
 
-
 <br/>
 
 # 🛠🧱 ***Languages and Tools:***
@@ -67,3 +66,9 @@ class Developer {
 <h2>What am I doing right now? 🤔</h2>
 
 <h3>⭐ I'm currently developing a web-based chat room called Rick Chat. ⭐</h3>
+
+
+<p align="left">
+    <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e47gu3aaj5npbzq54sz7p38yx071zaso8j6fepf3m00&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+</p>
+
