@@ -60,7 +60,7 @@ class Developer {
     <a href="" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" /></a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%" />
+<br/>
 
 # 📞📡 ***Contact me:***
 
@@ -72,7 +72,7 @@ class Developer {
     <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/arda-mosafer/arda-mosafer/blob/main/icons8-linkedin-94.png?raw=true" width="70" height="70" /></a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
+<br/>
 
 <h2>What am I doing right now? 🤔</h2>
 
