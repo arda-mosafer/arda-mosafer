@@ -67,9 +67,9 @@ class Developer {
 <p align="left">
     <a href="https://t.me/Mosafer_001" target="_blank" rel="noreferrer"><img src="https://github.com/arda-mosafer/arda-mosafer/raw/main/icons8-telegram-94.png?raw=true" width="70" height="70" /></a>
     &nbsp; &nbsp;
-    <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/arda-mosafer/arda-mosafer/blob/main/icons8-github-logo-94.png?raw=true" width="70" height="70" /></a>
+    <a href="https://github.com/arda-mosafer" target="_blank" rel="noreferrer"><img src="https://github.com/arda-mosafer/arda-mosafer/blob/main/icons8-github-logo-94.png?raw=true" width="70" height="70" /></a>
     &nbsp; &nbsp;
-    <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/arda-mosafer/arda-mosafer/blob/main/icons8-linkedin-94.png?raw=true" width="70" height="70" /></a>
+    <a href="https://www.linkedin.com/in/arda-mosafer-13a330356/" target="_blank" rel="noreferrer"><img src="https://github.com/arda-mosafer/arda-mosafer/blob/main/icons8-linkedin-94.png?raw=true" width="70" height="70" /></a>
 </p>
 
 <br/>
