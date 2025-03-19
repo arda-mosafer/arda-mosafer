@@ -18,8 +18,6 @@ class Developer {
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
 
 # 👻 ABOUT ME:
 
