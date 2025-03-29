@@ -3,7 +3,7 @@ namespace Profile;
 
 class Developer {
     private string $name = "Arda Mosafer";
-    private string $role = "PHP Developer";
+    private string $role = "PHP & Node.js Developer";
     private array $skills = ["PHP", "Laravel", "Javascript", "Node.js", "Bootstrap", "TailwindCSS"];
 
     public function introduce(): string {
