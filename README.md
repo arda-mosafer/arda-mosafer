@@ -22,7 +22,6 @@ class Developer {
 # 🛠🧱 ***Languages and Tools:***
 
 <p align="left">
-<br/>
     <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/arda-mosafer/arda-mosafer/f03bd9968d3e05364938c6533d4f01907541b503/php-svgrepo-com.svg" width="48" height="48" alt="PHP" /></a>
     <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/arda-mosafer/arda-mosafer/f03bd9968d3e05364938c6533d4f01907541b503/laravel-svgrepo-com.svg" width="48" height="48" alt="Laravel" /></a>
     <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/arda-mosafer/arda-mosafer/bbd4130c7bd31e41120cff9d8979f6f46e187103/nodejs-icon-svgrepo-com.svg" width="48" height="48" alt="Node.js" /></a>
