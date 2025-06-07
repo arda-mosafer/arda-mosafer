@@ -59,8 +59,6 @@ class Developer {
 
 <h2>What am I doing right now? 🤔</h2>
 
-<h3>⭐ I'm currently privately developing a web-based chat room called Rick Chat. ⭐</h3>
-
 <h3>⭐ I'm currently developing multiple Telegram bots with various functionalities using PHP. ⭐</h3>
 
 <h3>⭐ I'm developing an online store using Laravel. ⭐</h3>
