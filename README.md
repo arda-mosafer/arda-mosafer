@@ -21,7 +21,6 @@ class Developer {
 <p align="left">
     <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/arda-mosafer/arda-mosafer/f03bd9968d3e05364938c6533d4f01907541b503/php-svgrepo-com.svg" width="42" height="42" alt="PHP" /></a>
     <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/arda-mosafer/arda-mosafer/f03bd9968d3e05364938c6533d4f01907541b503/laravel-svgrepo-com.svg" width="42" height="42"alt="Laravel" /></a>
-    <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/arda-mosafer/arda-mosafer/bbd4130c7bd31e41120cff9d8979f6f46e187103/nodejs-icon-svgrepo-com.svg" width="42" height="42" alt="Node.js" /></a>
 <br/>
     <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/arda-mosafer/arda-mosafer/f03bd9968d3e05364938c6533d4f01907541b503/html-5-svgrepo-com.svg" width="42" height="42" alt="HTML" /></a>
     <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/arda-mosafer/arda-mosafer/f03bd9968d3e05364938c6533d4f01907541b503/css-3-svgrepo-com.svg" width="42" height="42" alt="CSS" /></a>
