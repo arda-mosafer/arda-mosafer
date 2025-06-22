@@ -2,7 +2,7 @@
 namespace Profile;
 
 class Developer {
-    private string $name = "Arda Mosafer";
+    private string $name = "Abolfazl Mosafer";
     private string $role = "PHP Developer";
     private array $skills = ["PHP", "Laravel"];
 
