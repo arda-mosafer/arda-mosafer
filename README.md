@@ -21,6 +21,7 @@ class Developer {
 <p align="left">
     <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/arda-mosafer/arda-mosafer/f03bd9968d3e05364938c6533d4f01907541b503/php-svgrepo-com.svg" width="42" height="42" alt="PHP" /></a>
     <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/arda-mosafer/arda-mosafer/f03bd9968d3e05364938c6533d4f01907541b503/laravel-svgrepo-com.svg" width="42" height="42"alt="Laravel" /></a>
+    <a href="" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original.svg" width="42" height="42"alt="Livewire" /></a>
 <br/>
     <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/arda-mosafer/arda-mosafer/f03bd9968d3e05364938c6533d4f01907541b503/html-5-svgrepo-com.svg" width="42" height="42" alt="HTML" /></a>
     <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/arda-mosafer/arda-mosafer/f03bd9968d3e05364938c6533d4f01907541b503/css-3-svgrepo-com.svg" width="42" height="42" alt="CSS" /></a>
