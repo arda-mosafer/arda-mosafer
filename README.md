@@ -32,7 +32,7 @@
     &nbsp; &nbsp;
     <a href="https://github.com/arda-mosafer" target="_blank" rel="noreferrer"><img src="https://github.com/arda-mosafer/arda-mosafer/blob/main/icons8-github-logo-94.png?raw=true" width="60" height="60" /></a>
     &nbsp; &nbsp;
-    <a href="https://www.linkedin.com/in/arda-mosafer-13a330356/" target="_blank" rel="noreferrer"><img src="https://github.com/arda-mosafer/arda-mosafer/blob/main/icons8-linkedin-94.png?raw=true" width="60" height="60" /></a>
+    <a href="https://www.linkedin.com/in/abolfazl-mosafer/" target="_blank" rel="noreferrer"><img src="https://github.com/arda-mosafer/arda-mosafer/blob/main/icons8-linkedin-94.png?raw=true" width="60" height="60" /></a>
 </p>
 <h2><h2/>
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
