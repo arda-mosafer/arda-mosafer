@@ -1,4 +1,4 @@
-<h2>🛠🧱 Languages and Tools:</h2>
+<h1>🛠 Languages and Tools: 🧱</h1>
 
 <img align="right" src="https://github.com/arda-mosafer/arda-mosafer/blob/main/spidertocat.png?raw=true" width="120" />
 
@@ -8,11 +8,9 @@
     <a href="" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original.svg" width="56" height="56"alt="Livewire" /></a>
 <br/>
     <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/arda-mosafer/arda-mosafer/f03bd9968d3e05364938c6533d4f01907541b503/js-official-svgrepo-com.svg" width="56" height="56" alt="Javascript" /></a>
-    <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/arda-mosafer/arda-mosafer/f03bd9968d3e05364938c6533d4f01907541b503/tailwindcss-icon-svgrepo-com.svg" width="56" height="56" alt="Tailwindcss" /></a>
-    <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/arda-mosafer/arda-mosafer/f03bd9968d3e05364938c6533d4f01907541b503/bootstrap-svgrepo-com.svg" width="56" height="56" alt="Bootstrap" /></a>
-    <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/arda-mosafer/arda-mosafer/f03bd9968d3e05364938c6533d4f01907541b503/html-5-svgrepo-com.svg" width="56" height="56" alt="HTML" /></a>
-    <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/arda-mosafer/arda-mosafer/f03bd9968d3e05364938c6533d4f01907541b503/css-3-svgrepo-com.svg" width="56" height="56" alt="CSS" /></a>
-    <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/arda-mosafer/arda-mosafer/f03bd9968d3e05364938c6533d4f01907541b503/jquery-svgrepo-com.svg" width="56" height="56" alt="jquery" /></a>
+    <a href="" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="56" height="56" alt="Tailwindcss" /></a>
+    <a href="" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="56" height="56" alt="Vite" /></a>
+    <a href="" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="56" height="56" alt="Bootstrap" /></a>
 <br/>
     <a href="" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="56" height="56" alt="Docker" /></a>
     <a href="" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="56" height="56" alt="Redis" /></a>
@@ -23,7 +21,7 @@
     <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/arda-mosafer/arda-mosafer/f03bd9968d3e05364938c6533d4f01907541b503/insomnia-svgrepo-com.svg" width="56" height="56" alt="Insomnia" /></a>
 <br/>
     <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/arda-mosafer/arda-mosafer/f03bd9968d3e05364938c6533d4f01907541b503/linux-tux-svgrepo-com.svg" width="56" height="56" alt="Linux" /></a>
-    <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/arda-mosafer/arda-mosafer/f03bd9968d3e05364938c6533d4f01907541b503/windows-applications-svgrepo-com.svg" width="56" height="56" alt="Linux" /></a>
+    <a href="" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" width="56" height="56" alt="Bash" /></a>
 </p>
 
 <br/>
